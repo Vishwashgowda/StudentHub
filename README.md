@@ -15,4 +15,4 @@ Key Features:
 
 ->Secure and collaborative platform for students.
 
-This repository contains the codebase for the website's frontend, backend, and other core components, developed collaboratively by a team of students.
+This repository contains the codebase for the website's frontend, backend, and other core components, developed collaboratively by our team.
